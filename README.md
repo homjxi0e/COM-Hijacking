@@ -1,4 +1,3 @@
 # COM Hijacking 
 # Author @subTee
-Author update No Hijacking
-@homjxie
+## Author update No Hijacking @homjxie
