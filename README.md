@@ -6,5 +6,6 @@
 
 [Learn more on >_ Component Object Model (COM)](https://msdn.microsoft.com/en-us/library/windows/desktop/ms694363%28v=vs.85%29.aspx)
 ====================================================================================||> ====================================================================================||>
-# Author @subTee
-## Author update No Hijacking @homjxie
+# Author [@subTee](https://twitter.com/subTee)
+## Author update [@homjxie](https://twitter.com/homjxi0e)
+ 
